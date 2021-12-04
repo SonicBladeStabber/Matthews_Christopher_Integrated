@@ -3,7 +3,8 @@ TODO: Write a project description
 ## Installation
 click on code, then click "download zip"
 ## Usage
-TODO: Write usage instructions
+Make sure the file is unzipped, open the folder, then open index_page1.html
+After that ypu can scroll throughout the opened page(s). Some link prompts well send you to another site.
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -13,7 +14,7 @@ TODO: Write usage instructions
 ## History
 TODO: Write history
 ## Credits
-TODO: Write credits
+None to be given(?)
 ## License
 cc
 
