@@ -1,4 +1,4 @@
-# ${1:Matthews_Christopher_Integrated}
+Matthews_Christopher_Integrated
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
