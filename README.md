@@ -1,7 +1,7 @@
 # Matthews_Christopher_Integrated
 TODO: Write a project description
 ## Installation
-TODO: Describe the installation process
+click on code, then click "download zip"
 ## Usage
 TODO: Write usage instructions
 ## Contributing
