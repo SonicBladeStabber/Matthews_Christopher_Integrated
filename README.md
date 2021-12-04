@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Project Name}
+# ${1:Matthews_Christopher_Integrated}
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
