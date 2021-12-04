@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # ${1:Matthews_Christopher_Integrated}
 TODO: Write a project description
 ## Installation
@@ -18,6 +16,4 @@ TODO: Write history
 TODO: Write credits
 ## License
 cc
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
