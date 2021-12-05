@@ -2,6 +2,9 @@
 This project is a grid bassed website using css and html files, with the inclusion of images that where modified in photoshop and a custom logo as an svg.
 ## Installation
 click on code, then click "download zip". Afterwars, locate the donloaded zip in you downloads and retrieve contents into a folder of your choice.
+TODO: Write a project description
+## Installation
+click on code, then click "download zip"
 ## Usage
 Make sure the file is unzipped, open the folder, then open index_page1.html
 After that ypu can scroll throughout the opened page(s). Some link prompts well send you to another site.
