@@ -1,4 +1,7 @@
 # Matthews_Christopher_Integrated
+This project is a grid bassed website using css and html files, with the inclusion of images that where modified in photoshop and a custom logo as an svg.
+## Installation
+click on code, then click "download zip". Afterwars, locate the donloaded zip in you downloads and retrieve contents into a folder of your choice.
 TODO: Write a project description
 ## Installation
 click on code, then click "download zip"
@@ -17,4 +20,3 @@ TODO: Write history
 None to be given(?)
 ## License
 cc
-
